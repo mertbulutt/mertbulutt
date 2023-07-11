@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in .Net Framework, MS SQL, Web Development, Software Engineering, Angular, AngularJS, JavaScript and Flutter. Strong information technology professional with a Bachelor’s Degree focused in Computer Engineering from Atilim University.
+Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in .Net Framework, MS SQL, Web Development, Software Engineering, Angular, AngularJS, JavaScript and Flutter. Strong information technology professional with a Bachelor’s Degree focused in Computer Engineering from Atilim University.
 
 
 ## 🌐 Socials:
@@ -48,9 +48,9 @@ Cyber Security
 Linux
 Ethical Hacking
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ufcovo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ufcovo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ufcovo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=ufcovo&show_icons=true&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ufcovo&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ufcovo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ufcovo&theme=dark&no-frame=false&no-bg=true&margin-w=4)
