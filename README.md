@@ -7,6 +7,46 @@
 
 # 💻 Tech Stack:
 
+BackEnd Development
+Redis
+RabbitMQ
+Elastic Search (In Progress)
+ASP.NET MVC
+C#
+ASPX
+.NET
+
+FrontEnd Development
+JQuery
+JavaScript
+AngularJS
+CSS
+HTML
+TypeScript
+Bootstrap
+
+Mobile
+Flutter
+Dart
+
+Microsoft SQL Server
+SQL
+DB First
+Code First
+
+DevOps
+Agile
+Scrum
+CRM
+Git
+Web Development
+Visual Studio
+OOP
+Software Development
+
+Cyber Security
+Linux
+Ethical Hacking
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ufcovo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ufcovo&theme=dark&hide_border=false)<br/>
