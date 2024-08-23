@@ -44,9 +44,6 @@ Visual Studio
 OOP
 Software Development
 
-Cyber Security
-Linux
-Ethical Hacking
 # 📊 GitHub Stats:
 ![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertbulutt&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mertbulutt&theme=tokyonight&hide_border=false)<br/>
